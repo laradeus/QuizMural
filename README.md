@@ -1,4 +1,4 @@
-# QuizMural
+# São Paulo é centro?
 
 Este quiz foi criado para as disciplinas de DataVis II e Desenvolvimento de Aplicativos Web do Master em Jornalismo de Dados, Automação e DataStorytelling, do Insper. 
 
